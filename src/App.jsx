@@ -11,7 +11,7 @@ function App() {
       <h1>Hello</h1>
       <h2>World</h2>
       <h3>Mehedy</h3>
-      <h3>hasan</h3>
+     
     </div>
   )
 }
